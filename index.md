@@ -15,6 +15,23 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Zhengyi Jiang's CS193 Homework 0
+
+### What to expect in CS193
+1. More interactions with TA, like asking questions
+2. Try my best to shoulder fundamental skills of coding and programming
+
+## My hobby
+1. Playing basketball
+2. Watching Formula 1(Lewis Hamilton is my favorite driver) and anime
+3. Travelling outside(My recent plan in the future is to travel to Montreal and Toronto)
+
+# A little bit about myself
+1. My real name is Zhengyi Jiang, you can also call me Jalen.
+2. I come from Liyang, China.
+3. I want to transfer to Data Science major(My current major is Game Design).
+
+
 - Bulleted
 - List
 
