@@ -1,17 +1,17 @@
 ## Welcome to GitHub Pages
 ## What to expect in CS193
--More interactions with TA, like asking questions
--Try my best to shoulder fundamental skills of coding and programming
+- More interactions with TA, like asking questions
+- Try my best to shoulder fundamental skills of coding and programming
 
 ## My hobby
--Playing basketball
--Watching Formula 1(Lewis Hamilton is my favorite driver) and anime
--Travelling outside(My recent plan in the future is to travel to Montreal and Toronto)
+- Playing basketball
+- Watching Formula 1(Lewis Hamilton is my favorite driver) and anime
+- Travelling outside(My recent plan in the future is to travel to Montreal and Toronto)
 
 ## A little bit about myself
--My real name is Zhengyi Jiang, you can also call me Jalen.
--I come from Liyang, China.
--I want to transfer to Data Science major(My current major is Game Design).
+- My real name is Zhengyi Jiang, you can also call me Jalen.
+- I come from Liyang, China.
+- I want to transfer to Data Science major(My current major is Game Design).
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
