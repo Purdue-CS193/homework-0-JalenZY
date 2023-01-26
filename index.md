@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-### What to expect in CS193
+## What to expect in CS193
 -More interactions with TA, like asking questions
 -Try my best to shoulder fundamental skills of coding and programming
 
@@ -8,7 +8,7 @@
 -Watching Formula 1(Lewis Hamilton is my favorite driver) and anime
 -Travelling outside(My recent plan in the future is to travel to Montreal and Toronto)
 
-# A little bit about myself
+## A little bit about myself
 -My real name is Zhengyi Jiang, you can also call me Jalen.
 -I come from Liyang, China.
 -I want to transfer to Data Science major(My current major is Game Design).
